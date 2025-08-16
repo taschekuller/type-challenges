@@ -8,7 +8,7 @@ For this challenge, you will need to change the following code to make the tests
 
 ```ts
 // expected to be string
-type HelloWorld = any
+type HelloWorld = string
 ```
 
 ```ts
